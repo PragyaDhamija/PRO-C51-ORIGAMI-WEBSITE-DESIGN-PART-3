@@ -1,0 +1,53 @@
+h1{
+    color : #3333FF;
+    display : flex;
+    justify-content: center;
+}
+h3{
+    color: #990099;
+}
+body{
+    background-color : #66b2ff;
+    background-image: url("background.jpg");
+    margin: 10px;
+}
+b{
+    font-size: larger;
+}
+u{
+    color:;
+}
+h4{
+    color : #990099;
+    font-family: comic sans ms;
+}
+
+ul{
+    color : #009900;
+}
+.menu{
+    font-size: medium;
+    display : flex;
+    justify-content: space-between;
+    background-color : #000099;
+    color: #FFF;
+}
+.menu a{
+    color: #FFF;
+}
+.grid{
+    display : flex;
+    flex-wrap: wrap;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    margin: 50px;
+}
+.container{
+    border: solid;
+    border-radius: 30px;
+    border-color: #0000FF;
+    background-color: #FFF;
+    width: 310px;
+    padding: 20px;
+    margin: 25px;
+}
